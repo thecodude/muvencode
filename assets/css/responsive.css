@@ -1,0 +1,990 @@
+@media only screen and (min-width: 1550px) {
+  .career-hero-section .career-cards .single-card {
+    padding: 40px 20px;
+  }
+
+  .blog-cards .navtab-option .nav-item {
+    margin-right: 15px;
+  }
+
+  .tags-scroller .owl-nav button.owl-next {
+    right: -15px;
+  }
+}
+@media only screen and (min-width: 992px) {
+  .dashboard-hero .left-bar {
+    position: fixed;
+  }
+
+  .sign-out {
+    margin-bottom: 100px !important;
+  }
+
+  .visible-mobile {
+    display: none;
+  }
+
+  .scroller-wrapper {
+    margin-right: 122px;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .blog-cards .navtab-option .sin-nav {
+    margin-left: 0;
+  }
+
+  .blog-cards .navtab-option .nav-item-filter {
+    margin: 0 0 30px !important;
+  }
+
+  .related-training-section .related-content {
+    margin-top: 40px;
+  }
+
+  .career-hero-section {
+    padding-top: 160px;
+    padding-bottom: 120px;
+  }
+
+  .visible-desktop {
+    display: none;
+  }
+
+  .product-service-wrap .row {
+    display: grid;
+  }
+  .product-service-wrap .row .col-lg-5.col-md-12.col-sm-12.col-12 {
+    order: 2;
+  }
+  .product-service-wrap .row .col-lg-5.col-md-12.col-sm-12.col-12.grp-contrnt {
+    order: 1;
+  }
+  .product-service-wrap .row .img-content,
+.product-service-wrap .row .text-content {
+    margin-bottom: 40px;
+  }
+
+  .scroll-progress-wrap {
+    display: none;
+  }
+
+  .use-case-hero-section .use-case-content .title {
+    padding: 0;
+  }
+
+  .dashboard-hero .container-fluid {
+    padding: 0 15px 0;
+  }
+
+  .dashboard-hero .sidebar__inner .left-bar .nav {
+    display: block;
+  }
+
+  .dashboard-hero .left-bar {
+    width: 100%;
+    padding: 20px 0;
+  }
+
+  .career-cards {
+    margin-top: 50px;
+  }
+  .career-cards .row {
+    --bs-gutter-x: 0;
+    --bs-gutter-y: 0;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .tags-scroller .owl-nav button.owl-prev {
+    left: -8px;
+  }
+  .tags-scroller .owl-nav button.owl-next {
+    right: -8px;
+  }
+
+  .training-hero-section .text-content-inner, .training-hero-section .dropdown-modal {
+    display: block;
+  }
+
+  .hero-title {
+    background-position: left 33px;
+  }
+
+  .mt-120 {
+    margin-top: 60px;
+  }
+
+  .mb-120 {
+    margin-bottom: 60px;
+  }
+
+  .pb-50 {
+    padding-bottom: 25px;
+  }
+
+  .pb-60 {
+    padding-bottom: 30px;
+  }
+
+  .pt-60 {
+    padding-top: 30px;
+  }
+
+  .pt-120 {
+    padding-top: 60px;
+  }
+
+  .pb-120 {
+    padding-bottom: 60px;
+  }
+
+  .pb-140 {
+    padding-bottom: 90px;
+  }
+
+  h1 {
+    font-size: 40px;
+    line-height: 48px;
+  }
+
+  h2 {
+    font-size: 40px;
+  }
+
+  h3 {
+    font-size: 24px;
+  }
+
+  h4 {
+    font-size: 20px;
+  }
+
+  h5 {
+    font-size: 16px;
+  }
+
+  p {
+    font-size: 15px;
+  }
+
+  .hero-section .text-box .text .upper-text .p1 {
+    font-size: 13px;
+    margin-left: 10px;
+  }
+
+  .hero-section .text-box .text .upper-text::before {
+    width: 3px;
+    height: 15px;
+    top: 5px;
+  }
+
+  .hero-section .text-box .text h1 {
+    margin: 12px 0 15px;
+  }
+
+  .hero-section .text-box .text .cta-button {
+    margin-top: 25px;
+  }
+
+  .hero-section .text-box {
+    padding-bottom: 0px;
+  }
+
+  .hero-section .hero-title {
+    background-position: left 36px;
+  }
+
+  .company-logo-section .company-logo .logo-img img {
+    margin: 0 0px;
+  }
+
+  .why-mevencode .cards .mevencode-card {
+    margin-bottom: 20px;
+  }
+  .why-mevencode .cards .mevencode-card .icon {
+    width: 45px;
+    height: 45px;
+    margin-bottom: 25px;
+  }
+  .why-mevencode .cards .mevencode-card .icon i {
+    font-size: 18px;
+  }
+  .why-mevencode .cards .last-card {
+    margin-bottom: 0;
+  }
+
+  .product-service-section .text-content h3 {
+    margin-bottom: 15px;
+    font-size: 18px;
+  }
+
+  .product-service-section .text-content {
+    max-width: 100%;
+    margin-bottom: 40px;
+  }
+
+  .mobile-nav .logo {
+    width: 180px;
+  }
+
+  .hero-section .text-box {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+  }
+  .hero-section .hero-image {
+    background-image: unset;
+  }
+  .hero-section .hero-image img {
+    display: none;
+  }
+  .hero-section .hero-image .scroll-down {
+    display: none;
+  }
+
+  .use-case-hero-section .use-case-content .title .hero-title {
+    background-position: left 33px;
+  }
+
+  .why-mevencode .dot-shape {
+    display: none;
+  }
+
+  .growing-company-section h2 {
+    max-width: 100% !important;
+    position: relative;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    text-align: center;
+  }
+
+  .product-service-section .img-content .shape-img {
+    position: absolute;
+    left: 0px;
+  }
+
+  .footer-section ul {
+    display: block;
+  }
+
+  .footer-section .contact-section .contact-box {
+    padding: 70px 30px 30px;
+    margin-bottom: 50px;
+  }
+  .footer-section .contact-section .contact-box h2 {
+    margin-bottom: 20px;
+    font-size: 26px;
+  }
+
+  .footer-section .logo img {
+    width: 180px;
+    margin-bottom: 15px;
+  }
+
+  .footer-section ul li {
+    margin: 10px 0;
+  }
+
+  .footer-section ul .social-items li {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    line-height: 42px;
+  }
+
+  .footer-section ul li a {
+    font-size: 15px;
+    font-weight: 600;
+  }
+
+  .footer-section ul .social-items {
+    margin-top: 15px;
+  }
+  .footer-section ul .social-items li {
+    margin: 0 2px;
+  }
+
+  .retail-section .left-content h3 {
+    margin-bottom: 15px;
+  }
+
+  .retail-section .left-content .retail-cards .retail-card .icon {
+    background-color: #fff;
+    width: 60px;
+    height: 60px;
+    margin-bottom: 15px;
+  }
+
+  .retail-section .right-content {
+    margin-top: 20px;
+  }
+
+  .retail-section .left-img-content {
+    margin-bottom: 20px;
+  }
+
+  .training-hero-section h2 {
+    margin-bottom: 20px;
+  }
+
+  .training-hero-section .search-bar {
+    position: relative;
+    max-width: 100%;
+    right: auto;
+    left: auto;
+    bottom: -25px;
+  }
+
+  .training-hero-section .bar {
+    padding: 12px 5px 12px 14px;
+  }
+
+  .training-hero-section .search-bar .btn i {
+    font-size: 20px;
+  }
+
+  .training-hero-section {
+    padding-bottom: 20px;
+  }
+  .training-hero-section .p-text {
+    margin-bottom: 50px;
+  }
+
+  .training-hero-section .dropdown-modal .drp-btn {
+    padding: 13px 15px;
+    font-size: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .training-hero-section {
+    margin-bottom: 40px;
+  }
+
+  .service-hero-section h2 {
+    margin-bottom: 16px;
+  }
+
+  .service-hero-section .hero-title {
+    background-position: left 33px;
+  }
+
+  .feature-section {
+    clip-path: polygon(0 100%, 0 0, 100% 0, 100% 100%, 90% 100%, 9% 100%);
+  }
+
+  .feature-section .content .text-content h3 {
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+
+  .feature-section .content .text-content .all-cards {
+    margin-top: 0px;
+  }
+
+  .feature-section .content .text-content .all-cards .sngle-card {
+    margin-bottom: 20px;
+  }
+
+  .feature-section .content .text-content .all-cards .sngle-card ul li span {
+    font-size: 14px;
+  }
+
+  .feature-section .content-2 .img-part {
+    margin-left: 0px;
+    margin-top: 20px;
+  }
+
+  .feature-section .content-2 .second-row {
+    margin-top: 60px;
+  }
+
+  .feature-section .content .text-content h3 {
+    margin-top: 0px;
+  }
+
+  .feature-section .content-2 .second-row .img-part-2 {
+    margin-bottom: 30px;
+  }
+
+  .main-nav .mobile-logo {
+    display: block;
+  }
+
+  .mobile-nav .logo {
+    display: none;
+  }
+
+  .mean-bar .meanmenu-reveal {
+    left: 0 !important;
+    right: auto !important;
+  }
+
+  .header-area .right-menu {
+    display: none;
+  }
+
+  .small-device-menu-btn {
+    z-index: 9999;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 15px;
+  }
+
+  .man-face {
+    top: 7px;
+  }
+
+  .second-section .img-2 {
+    max-width: 100%;
+    margin: 30px 0;
+  }
+
+  .second-section img {
+    max-width: 100%;
+    margin: 30px 0;
+  }
+
+  .second-section .quote span {
+    font-size: 14px;
+    margin-top: 0;
+  }
+
+  .second-section .text-box {
+    padding: 30px 20px;
+  }
+
+  .second-section .main-ul ul {
+    display: block;
+    margin-top: 15px;
+  }
+  .second-section .main-ul ul li {
+    display: inline-block;
+    margin: 0 3px;
+  }
+
+  .second-section .text ul li {
+    font-size: 15px;
+  }
+
+  .blog-details-hero-section span, .blog-details-hero-section p {
+    font-size: 15px;
+  }
+
+  .blog-hero-section .img-content .shape-1 {
+    display: none;
+  }
+
+  .product-service-section .img-content .shape-img {
+    display: none;
+  }
+
+  .retail-section .left-content .retail-cards .retail-card {
+    padding: 0 40px 0 0;
+  }
+
+  .retail-section .left-content .retail-cards {
+    margin-top: 20px;
+  }
+
+  .product-service-section .middle-bar {
+    display: none;
+  }
+
+  .product-service-section .text-content {
+    max-width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .product-service-section .img-content {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+  }
+
+  .product-service-section .img-content .shape-img {
+    left: -10px;
+  }
+
+  .career-details-section .text-content .grp ul li {
+    font-size: 15px;
+  }
+
+  .career-hero-section .career-cards {
+    display: none;
+  }
+
+  .career-details-section .text-content .grp .per-comment .ratings span {
+    font-size: 12px;
+    margin: 0 3px;
+  }
+
+  .career-details-section .enrol-card {
+    padding: 30px;
+  }
+
+  .career-details-section .career-cards .single-card {
+    padding: 40px;
+    margin-bottom: 30px;
+  }
+  .career-details-section .career-cards .single-card i {
+    margin-bottom: 20px;
+    font-size: 36px;
+    color: #33546F;
+  }
+
+  .story-section .img-content .shape-2 {
+    display: none;
+  }
+
+  .mission-section .text-content {
+    margin-right: 0px;
+    margin-bottom: 20px;
+  }
+
+  .story-section .shape-1 {
+    display: none;
+  }
+
+  .story-section .text-content {
+    max-width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .career-details-section .career-cards .single-card {
+    padding: 20px;
+    margin-bottom: 30px;
+    box-shadow: 1px 5px 15px #f1f1f1;
+    border-radius: 10px;
+  }
+
+  .training-hero-section .all-cards .last-single-card {
+    margin-bottom: 0px;
+  }
+
+  .blog-hero-section::before {
+    display: none;
+  }
+
+  .blog-hero-section .img-content .img-1 {
+    margin-right: 0px !important;
+    margin-top: 20px;
+  }
+
+  .blog-cards .navtab-option .nav-item .nav-link {
+    padding: 12px 15px;
+  }
+
+  .blog-cards {
+    padding-bottom: 30px;
+  }
+
+  .dashboard-hero .left-bar {
+    width: 100%;
+    margin-right: 0px;
+  }
+
+  .dashboard-hero .profile-content .hero-content {
+    padding: 50px 20px;
+    background: url(../images/career/1.jpg) center center no-repeat;
+  }
+
+  .feature-section .inner-img {
+    margin-bottom: 30px;
+  }
+
+  .feature-section-2 .first-order {
+    order: 2;
+  }
+  .feature-section-2 .second-order {
+    order: 1;
+    margin-bottom: 30px;
+  }
+
+  .feature-section-4 .second-order {
+    order: 1;
+  }
+  .feature-section-4 .first-order {
+    order: 2;
+  }
+  .feature-section-4 .inner-img {
+    margin-bottom: 0px;
+  }
+
+  .footer-section {
+    text-align: center;
+  }
+  .footer-section .main-ul .footer-ul {
+    display: block;
+  }
+  .footer-section .main-ul .footer-ul li {
+    display: inline-flex;
+    margin: 10px;
+  }
+
+  .footer-section .contact-section .contact-box {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    background-color: #17334A;
+    background-image: none;
+    box-shadow: 0px 15px 30px #1c32471f;
+  }
+
+  .footer-section .contact-section .contact-box {
+    padding: 30px 30px 30px;
+  }
+
+  .blog-details-second-section .main-ul ul {
+    margin-top: 0px;
+  }
+}
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .section-title {
+    font-size: 26px;
+  }
+
+  .home1-banner-section .text-content h1 {
+    font-size: 40px;
+  }
+
+  .footer-section {
+    text-align: center;
+  }
+
+  .career-details-section .career-cards .single-card {
+    padding: 20px;
+  }
+
+  .training-hero-section .text-content-inner {
+    display: block;
+    margin-top: 90px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .dashboard-header .container {
+    max-width: 981px;
+  }
+
+  .mt-120 {
+    margin-top: 80px;
+  }
+
+  .mb-120 {
+    margin-bottom: 80px;
+  }
+
+  .pb-50 {
+    padding-bottom: 25px;
+  }
+
+  .pb-60 {
+    padding-bottom: 40px;
+  }
+
+  .pt-60 {
+    padding-top: 40px;
+  }
+
+  .pt-120 {
+    padding-top: 80px;
+  }
+
+  .pb-120 {
+    padding-bottom: 80px;
+  }
+
+  .pb-140 {
+    padding-bottom: 100px;
+  }
+
+  .hero-section .text-box .text .upper-text .p1 {
+    font-size: 13px;
+    margin-left: 10px;
+  }
+
+  .hero-section .text-box .text .upper-text::before {
+    width: 3px;
+    height: 15px;
+    top: 5px;
+  }
+
+  .hero-section .text-box .text h1 {
+    margin: 12px 0 15px;
+  }
+
+  .hero-section .text-box .text .cta-button {
+    margin-top: 25px;
+  }
+
+  .hero-section .text-box {
+    padding-bottom: 0px;
+  }
+
+  .hero-section .text-box {
+    margin-bottom: 0px;
+    margin-right: 0;
+    margin-top: 20px;
+  }
+
+  .main-nav .mobile-logo {
+    display: block;
+  }
+
+  .mobile-nav .logo {
+    display: none;
+  }
+
+  .mean-bar .meanmenu-reveal {
+    left: 0 !important;
+    right: auto !important;
+  }
+
+  .header-area .right-menu {
+    display: none;
+  }
+
+  .small-device-menu-btn {
+    z-index: 9999;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 15px;
+  }
+
+  .why-mevencode .cards .mevencode-card {
+    margin-bottom: 30px;
+  }
+
+  .footer-section ul {
+    display: block;
+    flex-direction: column;
+  }
+  .footer-section ul li {
+    display: inline-block;
+  }
+
+  .retail-section .right-content {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+  }
+
+  .retail-section .left-img-content {
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .product-service-section .middle-bar {
+    display: none;
+  }
+
+  .product-service-section .text-content {
+    max-width: 100%;
+  }
+
+  .product-service-section .img-content {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .product-service-section .img-content .shape-img {
+    left: -10px;
+  }
+
+  .product-service-section .text-content-3 {
+    margin-bottom: 0;
+  }
+
+  .footer-section ul li {
+    display: inline-block;
+  }
+
+  .footer-section {
+    text-align: center;
+  }
+  .footer-section .middle-li {
+    margin: 20px 0;
+  }
+
+  .hero-section .hero-image .scroll-down {
+    background-color: #0054A9;
+    width: 40px;
+    height: 40px;
+    border-radius: 6px;
+  }
+  .hero-section .hero-image .scroll-down i {
+    color: #fff;
+    font-size: 16px;
+  }
+
+  .product-service-section .text-content h3 {
+    margin-bottom: 20px;
+  }
+
+  .career-details-section .text-content .grp ul li {
+    font-size: 15px;
+  }
+
+  .career-hero-section .career-cards {
+    display: none;
+  }
+
+  .career-details-section .text-content .grp .per-comment .ratings span {
+    font-size: 12px;
+    margin: 0 3px;
+  }
+
+  .career-details-section .enrol-card {
+    padding: 30px;
+  }
+
+  .career-details-section .career-cards .single-card {
+    padding: 35px;
+    margin-bottom: 30px;
+    box-shadow: 1px 5px 15px rgba(214, 214, 214, 0.623);
+    border-radius: 10px;
+  }
+  .career-details-section .career-cards .single-card i {
+    margin-bottom: 20px;
+    font-size: 36px;
+    color: #33546F;
+  }
+
+  .mission-section .text-content {
+    margin-right: 0px;
+    margin-bottom: 30px;
+  }
+
+  .story-section .img-content .shape-2 {
+    display: none;
+  }
+
+  .blog-hero-section .img-content .shape-1 {
+    display: none;
+  }
+
+  .blog-hero-section::before {
+    display: none;
+  }
+
+  .blog-hero-section .img-content .img-1 {
+    margin-right: 0px;
+    margin-top: 30px;
+  }
+
+  .blog-cards .navtab-option .nav-item .nav-link {
+    padding: 12px 15px;
+  }
+
+  .blog-cards {
+    padding-bottom: 60px;
+  }
+
+  .second-section .img-2 {
+    max-width: 100%;
+  }
+
+  .second-section img {
+    max-width: 100%;
+  }
+
+  .second-section .quote span {
+    margin-top: 0px;
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .mt-120 {
+    margin-top: 90px;
+  }
+
+  .mb-120 {
+    margin-bottom: 90px;
+  }
+
+  .pb-50 {
+    padding-bottom: 40px;
+  }
+
+  .pb-60 {
+    padding-bottom: 40px;
+  }
+
+  .pt-60 {
+    padding-top: 40px;
+  }
+
+  .pt-120 {
+    padding-top: 90px;
+  }
+
+  .pb-120 {
+    padding-bottom: 90px;
+  }
+
+  .pb-140 {
+    padding-bottom: 120px;
+  }
+
+  .main-nav nav .navbar-nav .nav-item a {
+    font-size: 15px;
+    margin-left: 2px;
+    margin-right: 2px;
+  }
+
+  .main-nav nav .navbar-nav .nav-item {
+    margin: 0 7px;
+  }
+
+  .why-mevencode .cards .mevencode-card p {
+    font-size: 15px;
+  }
+
+  .why-mevencode .cards .mevencode-card h5 {
+    margin-bottom: 10px;
+  }
+
+  .header-area .right-menu .cta-btn {
+    padding: 12px 20px !important;
+  }
+
+  .product-service-section .img-content .shape-img {
+    left: -15px;
+    top: 50%;
+    width: 200px;
+  }
+
+  .footer-section ul li {
+    margin: 0 8px;
+  }
+
+  .career-hero-section .career-cards .single-card {
+    padding: 20px;
+  }
+
+  .blog-hero-section .img-content .shape-1 {
+    display: none;
+  }
+
+  .blog-cards .navtab-option .nav-item {
+    margin-top: 7px;
+    margin-bottom: 7px;
+  }
+
+  .dashboard-details-section {
+    padding-top: 10px;
+  }
+
+  .dashboard-hero .left-bar {
+    width: 220px;
+  }
+
+  .career-cards {
+    margin-top: -10%;
+  }
+}
+
+/*# sourceMappingURL=responsive.css.map */
